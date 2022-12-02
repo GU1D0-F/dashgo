@@ -17,7 +17,7 @@ export function Profile({ showProfileData = true }: ProfileProps) {
                         color="gray.300"
                         fontSize="small"
                     >
-                        guilherme.fadel@havan.com.br
+                        gfadelt@gmail.com
                     </Text>
                 </Box>
             )}
